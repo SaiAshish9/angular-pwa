@@ -1,8 +1,8 @@
 Steps to be followed :
-
-1 . ng init <>
-2 . ng add @angular/pwa
-3.  ng build --prod
-4.  npm i -g http-server
-5.  Edit ngswconfig.json
-6 . cd dist/<> && http-server -p 8081
+<br/>
+1 . ng init <> <br/>
+2 . ng add @angular/pwa <br/>
+3.  ng build --prod <br/>
+4.  npm i -g http-server <br/>
+5.  Edit ngswconfig.json <br/>
+6 . cd dist/<> && http-server -p 8081 <br/>
